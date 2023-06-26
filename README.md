@@ -12,7 +12,7 @@
 ### Задание 6
 ![alt text](https://github.com/Svalker1989/hw-03/blob/main/Z6.PNG)
 ### код скрипта
-'''python
+```python
 import sys
 import os
 import re
@@ -24,11 +24,11 @@ elif (sys.argv[1] == '2'):
         print(result)
 else:
         print(f"unknown input: {sys.argv[1]}")
-'''
+```
 ### Задание 7
 ![alt text](https://github.com/Svalker1989/hw-03/blob/main/Z7.PNG)
 ### код скрипта
-'''python
+```python
 import sys
 import os
 import re
@@ -46,7 +46,7 @@ elif (sys.argv[1] == '-simple_print'):
         print(sys.argv[2])
 else:
         print(f"unknown input: {sys.argv[1]}")
-'''
+```
 ### Задание 8
 ![alt text](https://github.com/Svalker1989/hw-03/blob/main/Z8_actions.PNG)
 ![alt text](https://github.com/Svalker1989/hw-03/blob/main/Z8_discovery.PNG)
